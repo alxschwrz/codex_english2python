@@ -1,4 +1,4 @@
-<h1 align="center">🗣 english2python 🧑‍💻 </h1>
+<h1 align="center">🗣 codex_english2python 🧑‍💻 </h1>
 
 <p align="center">
     OpenAI Codex Natural Language to Python Code Snippet Generator
