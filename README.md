@@ -27,7 +27,9 @@ python3 english2python.py
 <img src="assets/terminal_example.png" alt="example_of_prompt_in_terminal" width="800"/>
 
 ... exit the program by typing 'exit()' + Enter
-Please test your generated code snippet before usage. This does not intend to produce robust code, but serves as a tool for you as a programmer. [WIP]
+
+Please test your generated code snippet before usage. 
+This does not intend to produce robust code, but serves as a tool for you as a programmer. [WIP]
 ## Credits
 This project is based on the OpenAI Codex project.
 
